@@ -56,7 +56,9 @@ Useful documentations:
 
 - [Scala](https://docs.scala-lang.org/)
 - [Scala Standard Library](https://www.scala-lang.org/files/archive/api/2.13.16/)
+- [Tour of Scala](https://docs.scala-lang.org/tour/tour-of-scala.html)
 - [SBT](https://www.scala-sbt.org/)
 - [Metals](https://scalameta.org/metals/)
 - [Scalafmt](https://scalameta.org/scalafmt/)
 - [MUnit](https://scalameta.org/munit/docs/getting-started.html)
+- [Scastie - Scala Online REPL](https://scastie.scala-lang.org/)
